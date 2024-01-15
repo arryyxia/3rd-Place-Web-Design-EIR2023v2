@@ -39,22 +39,6 @@
     --bg-input: #0A1938;
     --text: #E1ECFE;
 }
-.container{
-    max-width: 1600px;
-    width: 100%;
-    padding: 0 32px;
-    margin: 0 auto;
-}
-@media (min-width: 768px){
-    .container{
-        padding: 0 64px;
-    }
-}
-@media (min-width: 1048px){
-    .container{
-        padding: 0 128px;
-    }
-}
 body{
     background-color: var(--bg);
     font-size: 16px;
@@ -72,6 +56,22 @@ html::-webkit-scrollbar-thumb{
 }
 html{
     scroll-behavior: smooth;
+}
+.container{
+    max-width: 1600px;
+    width: 100%;
+    padding: 0 32px;
+    margin: 0 auto;
+}
+@media (min-width: 768px){
+    .container{
+        padding: 0 64px;
+    }
+}
+@media (min-width: 1048px){
+    .container{
+        padding: 0 128px;
+    }
 }
 /* judul */
 .judul{
