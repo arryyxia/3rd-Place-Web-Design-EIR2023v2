@@ -24,7 +24,7 @@ Simply open the repository, and you'll find the following structure:
 This is a landing page website with no configuration or settings. Easy to use for a quick web presence.
 
 ## Screenshots
-[Include screenshots here]
+[Include screenshots soon]
 
 ## Dependencies
 The website only relies on fonts from Google, conveniently stored in the "assets" folder.
